@@ -1,0 +1,26 @@
+_repo: Les-nuits-mexicaines_49619
+creator:
+  author:
+    agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gustave_Aimard
+    - http://fr.wikipedia.org/wiki/Gustave_Aimard
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2015-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49619'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Les nuits mexicaines
+url: http://www.gutenberg.org/ebooks/49619
