@@ -1,4 +1,8 @@
 _repo: Les-nuits-mexicaines_49619
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49619-h/images/cover.jpg
 creator:
   author:
     agent_name: Aimard, Gustave
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49619#Les-nuits-mexicaines
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
